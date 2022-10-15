@@ -1,2 +1,2 @@
 # JavaGraphics
- 3D Graphics with Java
+ Trying out 3D Graphics with Java
